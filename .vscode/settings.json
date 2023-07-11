@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 15,
+    "editor.accessibilityPageSize": 500,
+    "editor.accessibilitySupport": "auto",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false
+}
